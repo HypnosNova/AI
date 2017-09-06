@@ -7,3 +7,7 @@
 深度学习：deep learning
 
 神经网络：neural network
+
+神经元：neuron
+
+训练集：training set
