@@ -2,9 +2,7 @@
 
 ### 导航
 
-[什么是神经网络什么是神经网络]: https://github.com/HypnosNova/AI/blob/master/md/chapter%201.1%20%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.mdhttps://github.com/HypnosNova/AI/blob/master/md/chapter%201.1%20%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md
-
-[1.1 什么是神经网络][https://github.com/HypnosNova/AI/blob/master/md/chapter%201.1%20%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md][1][][1.][][1][][1.1][][1][][1.][][1][][1.1 ][][1][][1.][][1][][1.1][][1][][1.][][1][][1.1 什么是神经网络][https://github.com/HypnosNova/AI/blob/master/md/chapter%201.1%20%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md][1][][1.][][1][][1.1][][1][][1.][][1][][1.1 ][][1][][1.][][1][][1.1][][1][][1.][][1][][1.1 什么是神经网络][https://github.com/HypnosNova/AI/blob/master/md/chapter%201.1%20%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md][1][][1.][][1][][1.1][][1][][1.][][1][][1.1 ][][1][][1.][][1][][1.1][][1][][1.][][1][][1.1 什么是神经网络][https://github.com/HypnosNova/AI/blob/master/md/chapter%201.1%20%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md][1][][1.][][1][][1.1][][1][][1.][][1][][1.1 ][][1][][1.][][1][][1.1][][1][][1.][][1][]
+1.11.11.11.1
 
 
 
@@ -22,4 +20,4 @@
 
 监督学习：supervised learning
 
-特征：feature
+特征：feature特征：feature
