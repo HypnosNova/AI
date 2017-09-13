@@ -6,6 +6,14 @@
 
 [1.2 用神经网络进行监督学习](https://github.com/HypnosNova/AI/blob/master/md/chapter%201.2%20%E7%94%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%BF%9B%E8%A1%8C%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.md)
 
+### 符号约定
+
+m：训练集的规模，即训练样本的数量
+
+
+
+
+
 ### 关键词中英对照
 
 机器学习：machine learning
@@ -21,3 +29,5 @@
 监督学习：supervised learning
 
 特征：feature特征：feature
+
+支持向量机：support vector machine
